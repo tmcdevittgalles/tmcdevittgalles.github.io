@@ -1,3 +1,5 @@
+<img src="images/Emoticons/cool.png" alt="hi" class="inline"/>
+
 # Travis McDevitt-Galles
 I am an ecologist interested in diesease ecology and species interactions. I am currently a PhD canidate in Dr. Pieter Johnson's lab at the University of Colorado: Boulder where I am addressing how variation in seasonal weather patterns shape intensity dependent pathology in an amphibian-trematode system as well as identifty the non-infectious roles of parasites in ecosystems. 
 
@@ -7,7 +9,7 @@ Research
 
 ## **Parasite-host interactions in a changing world**
 
-SOME THING ABOUT DISEASE ECOLOGY AND CLIMATE CHANGE, HIGHLIGHT RECENT PUB AND WORK REGARDING LONG TERM DATA SET
+As host-parasite interactions are sensitive to changing climates, it is important to address how these climatic shifts are influencing both infection strength and parasite-induced pathology. This is especially true as research indicates that climate change will alter host-parasite interactions at the local, regional, and global scales. One of the most common ecological responses to climate change is shifts in the phenological synchrony of species interactions, resulting in changes in the interaction strength of said species. Due to their small size, parasites are expected to be highly sensitive to changing temperature, making them vulnerable to changes in phenology. Addressing specifically how phenological synchronization shapes disease dynamics in natural systems can provide mechanistic insight into how parasite-host interaction strength may be responding to climate change.
 
 ### PUBS ASSOCIATED 
 
