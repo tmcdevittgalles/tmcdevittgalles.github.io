@@ -1,19 +1,28 @@
-## Welcome to GitHub Pages
+# Travis McDevitt-Galles
+I am an ecologist interested in diesease ecology and species interactions. I am currently a PhD canidate in Dr. Pieter Johnson's lab at the University of Colorado: Boulder where I am addressing how variation in seasonal weather patterns shape intensity dependent pathology in an amphibian-trematode system as well as identifty the non-infectious roles of parasites in ecosystems. 
 
-You can use the [editor on GitHub](https://github.com/tmcdevittgalles/tmcdevittgalles.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Research
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Research
 
-### Markdown
+## **Parasite-host interactions in a changing world**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SOME THING ABOUT DISEASE ECOLOGY AND CLIMATE CHANGE, HIGHLIGHT RECENT PUB AND WORK REGARDING LONG TERM DATA SET
 
-```markdown
-Syntax highlighted code block
+### PUBS ASSOCIATED 
 
-# Header 1
-## Header 2
-### Header 3
+PUB 1
+
+## **Parasites as prey**
+
+Short thing about how parasite are important prey items
+
+## **Freshwater community ecology in a changing world**
+  
+Something about drought and how that impacts community ecology
+
+### Pubs
+
 
 - Bulleted
 - List
